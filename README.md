@@ -92,7 +92,7 @@ python manage.py runserver
 ### 1. Trigger Report
 
 - **POST /trigger_report** 
-- **Response:**  
+  - Response:  
 ```bash
 {
   "report_id": "abc123"
@@ -102,7 +102,7 @@ python manage.py runserver
 ### 2. Get Report
 
 - **GET /get_report?report_id=abc123**
-- **If still running:**
+  - If still running:
 ```bash
 {
   "status": "Running"
