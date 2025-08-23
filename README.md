@@ -64,8 +64,8 @@ loop_store_monitor/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/amansingh1528/AMAN_28.08.2025.git
+cd AMAN_28.08.2025
 ```
 
 ### 2. Create Virtual Environment & Install Dependencies
@@ -110,8 +110,8 @@ python manage.py runserver
 }
 ```
 
-- **If complete:
-- Returns CSV file with schema:**
+- **If complete:**
+- **Returns CSV file with schema:**
 ```bash
 store_id, uptime_last_hour, downtime_last_hour, uptime_last_day, downtime_last_day, uptime_last_week, downtime_last_week
 ```
