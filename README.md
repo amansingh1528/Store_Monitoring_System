@@ -21,7 +21,7 @@ The report contains **uptime and downtime** stats for each store for:
 - Two main endpoints:
     - `/trigger_report` → Initiates report generation, returns `report_id`.
     - `/get_report` → Check report status or download the CSV.
-- **CSV Output Format:**
+**CSV Output Format:**
 - store_id, uptime_last_hour, downtime_last_hour, uptime_last_day, downtime_last_day, uptime_last_week, downtime_last_week
 ---
 
