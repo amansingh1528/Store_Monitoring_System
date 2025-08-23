@@ -23,7 +23,6 @@ The report contains **uptime and downtime** stats for each store for:
     - `/get_report` → Check report status or download the CSV.
 - **CSV Output Format:**
 - store_id, uptime_last_hour, downtime_last_hour, uptime_last_day, downtime_last_day, uptime_last_week, downtime_last_week
-- 
 ---
 
 ## Tech Stack
@@ -34,7 +33,7 @@ The report contains **uptime and downtime** stats for each store for:
 ---
 
 ## Project Structure
-
+```bash
 loop_store_monitor/
 ├── manage.py
 ├── loop_store_monitor/
@@ -57,7 +56,7 @@ loop_store_monitor/
     │       └── load_store_data.py
     └── migrations/
         └── 0001_initial.py
-
+```
 ---
 
 ## Setup Instructions
