@@ -109,8 +109,8 @@ python manage.py runserver
 }
 ```
 
-- **If complete:**
-- **Returns CSV file with schema:**
+   - If complete:
+   - Returns CSV file with schema:
 ```bash
 store_id, uptime_last_hour, downtime_last_hour, uptime_last_day, downtime_last_day, uptime_last_week, downtime_last_week
 ```
