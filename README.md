@@ -63,8 +63,8 @@ loop_store_monitor/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/amansingh1528/AMAN_28.08.2025.git
-cd AMAN_28.08.2025
+git clone https://github.com/amansingh1528/AMAN_24.08.2025.git
+cd AMAN_24.08.2025
 ```
 
 ### 2. Create Virtual Environment & Install Dependencies
