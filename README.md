@@ -115,9 +115,6 @@ python manage.py runserver
 store_id, uptime_last_hour, downtime_last_hour, uptime_last_day, downtime_last_day, uptime_last_week, downtime_last_week
 ```
 
-## Demo Video
-- [Demo Video](https://drive.google.com/file/d/1wjjWH9YZMjvnzEVn4bk46CpbFx9i-Y6K/view?usp=sharing)
-
 ## Future Enhancements
 - Add Celery + Redis for asynchronous processing.
 - Support JWT Authentication for APIs.
@@ -130,8 +127,6 @@ store_id, uptime_last_hour, downtime_last_hour, uptime_last_day, downtime_last_d
 ## Author
 
 - AMAN SINGH CHAUHAN
-- aman15112004@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/aman-singh-chauhan-b870b522a/)
 
 
 
