@@ -116,10 +116,8 @@ store_id, uptime_last_hour, downtime_last_hour, uptime_last_day, downtime_last_d
 ```
 
 ## Future Enhancements
-- Add Celery + Redis for asynchronous processing.
 - Support JWT Authentication for APIs.
 - Replace SQLite with PostgreSQL for scalability.
-- Implement automated tests with coverage reports.
 
 ## CSV Output
 - [CSV](https://drive.google.com/file/d/1jF19nm6M1d2JKXn0b2Dl-1iRikDxMlC7/view?usp=sharing)
